@@ -18,3 +18,5 @@ Route::get('/', function () {
 Route::get('/admin', function () { return "admin url"; });
 
 Route::get('/goutam', function () { return "admin url"; });
+
+// test
